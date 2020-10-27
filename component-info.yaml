@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: abababab
+  description: adad
+  annotations: 
+    github.com/project-slug: freben/golangtest
+    backstage.io/github-actions-id: freben/golangtest
+spec:
+  type: service
+  lifecycle: experimental
+  owner: freben
